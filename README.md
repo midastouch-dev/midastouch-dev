@@ -40,4 +40,4 @@
 ### <h2>Contact Me</h2>
 [![Outlook Badge](https://img.shields.io/badge/-tylerfyu@outlook.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:tylerfyu@outlook.com)](mailto:tylerfyu@outlook.com)
 [![Gmail Badge](https://img.shields.io/badge/-tylerfyu519@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tylerfyu519@gmail.com)](mailto:tylerfyu519@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Tyler Fyu-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tylerfyu)]
+[![Telegram Badge](https://img.shields.io/badge/-Tyler Fyu-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tylerfyu)](https://t.me/tylerfyu)
