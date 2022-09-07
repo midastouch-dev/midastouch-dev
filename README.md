@@ -19,7 +19,7 @@
 
 ### <h2>Programming Languages 🌐</h2>
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="ts logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  
-|---|---|---|---|
+|---|---|
 
 ### <h2>Contact Me</h2>
 [![Outlook Badge](https://img.shields.io/badge/-tylerfyu@outlook.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:tylerfyu@outlook.com)](mailto:tylerfyu@outlook.com)
