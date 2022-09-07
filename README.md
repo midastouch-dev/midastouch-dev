@@ -5,11 +5,12 @@
 
 ### <h2> My Technologies <a id="user-content--profile-trophy" class="anchor" aria-hidden="true" href="https://github.com/tylerfyu"></svg></a>👨‍💻</g-emoji></h2>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express.js)
-![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=Nest.js)
+![Expressjs](https://img.shields.io/badge/-Express.js-green?style=flat-square&logo=Express.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-blue?style=flat-square&logo=Nest.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Web3.js](https://img.shields.io/badge/-Web3-green?style=flat-square&logo=web3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
