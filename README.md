@@ -4,10 +4,10 @@
 <h3>As a creative engineer, developed the frontend and backend applications.  And established the mobile and TV applications using Native Languages and Hybrid.  Recently, focused the blockchain technology, developed the smart contracts and Defi and NFT marketplace. For work, use the 3rd party libraries like Google, AWS, Firebase, Stripe, etc.</h3>
 <h2> My Technologies <a id="user-content--profile-trophy" class="anchor" aria-hidden="true"></svg></a>👨‍💻</g-emoji></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react,redux,nextjs,nuxtjs,angular,vue,nodejs,express,nestjs,webpack,django,flask,laravel,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,figma,cpp,dotnet,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,docker,d3,electron,firebase,ipfs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,redux,nextjs,nuxtjs,angular,vue,nodejs,express,nestjs,webpack,django,flask,laravel,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,figma,cpp,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,vercel,heroku,aws,azure,docker,d3,electron,firebase,ipfs" />
 </p>
 
 ### <h2>Programming Languages 🌐</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,ruby,py,c,cs,java,kotlin,swift,solidity" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,kotlin,swift,solidity" />
 </p>
